@@ -1,0 +1,13 @@
+﻿<Window x:Name="Trafficsimulation" x:Class="Prototype.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Prototype"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Canvas x:Name="TrafficSimulation">
+        <Button x:Name="addCar" Content="addCar" Canvas.Left="403" Canvas.Top="28" Width="75" Click="addCar_Click"/>
+        <Button x:Name="addfastcar" Content="Button" Canvas.Left="328" Canvas.Top="13" Width="75" Click="addfastcar_Click"/>
+    </Canvas>
+</Window>

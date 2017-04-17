@@ -1,0 +1,14 @@
+C:\Users\Hannes\Documents\Visual Studio 2015\Projects\Prototype\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\Hannes\Documents\Visual Studio 2015\Projects\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\Users\Hannes\Documents\Visual Studio 2015\Projects\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Hannes\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Hannes\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\MainWindow.g.cs
+C:\Users\Hannes\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\App.g.cs
+C:\Users\Hannes\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype_MarkupCompile.cache
+C:\Users\Hannes\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype_MarkupCompile.lref
+C:\Users\Hannes\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\MainWindow.baml
+C:\Users\Hannes\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.g.resources
+C:\Users\Hannes\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.Properties.Resources.resources
+C:\Users\Hannes\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.csproj.GenerateResource.Cache
+C:\Users\Hannes\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.exe
+C:\Users\Hannes\Documents\Visual Studio 2015\Projects\Prototype\Prototype\obj\Debug\Prototype.pdb
